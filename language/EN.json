@@ -3,7 +3,7 @@
     "LANGCODE": "en",
     "AUTHOR"  : "sanuwa official",
     "STRINGS" : { 
-                  "aqua" : {   
+                  "hs" : {   
                             "COMMAND"  : "Command",
                             "DESC"     : "Description",
                             "EXAMPLE"  : "Example",
